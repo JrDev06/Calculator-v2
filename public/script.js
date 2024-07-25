@@ -9,7 +9,7 @@ function clearDisplay() {
 
 function calculate() {
     const display = document.getElementById('result');
-    display.value = "I miss you";
+    display.value = "Fuck You Nigga";
     playAudio();
 }
 
